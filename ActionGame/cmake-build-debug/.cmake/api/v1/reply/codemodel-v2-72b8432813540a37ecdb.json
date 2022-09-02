@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Unreal",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ActionGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ActionGame-Debug-1f75bbcb9c40c577b244.json",
+					"name" : "ActionGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ActionGame-Win64-DebugGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ActionGame-Win64-DebugGame-Debug-75e10f7b743a89cd4f2a.json",
+					"name" : "ActionGame-Win64-DebugGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ActionGame-Win64-Shipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ActionGame-Win64-Shipping-Debug-74ceb8f4416017b397c4.json",
+					"name" : "ActionGame-Win64-Shipping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ActionGameEditor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ActionGameEditor-Debug-3e356010592ae5a2fc0b.json",
+					"name" : "ActionGameEditor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ActionGameEditor-Win64-DebugGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ActionGameEditor-Win64-DebugGame-Debug-2f6e0c9a3fa9197c55f9.json",
+					"name" : "ActionGameEditor-Win64-DebugGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ActionGameEditor-Win64-Shipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ActionGameEditor-Win64-Shipping-Debug-32eae6446b00bd8b27a4.json",
+					"name" : "ActionGameEditor-Win64-Shipping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FakeTarget::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FakeTarget-Debug-16a8939e12adc23729fe.json",
+					"name" : "FakeTarget",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealEditor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealEditor-Debug-d807d7c2b4d9c9cf743c.json",
+					"name" : "UnrealEditor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealEditor-Win64-DebugGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealEditor-Win64-DebugGame-Debug-d218047c8e517fab3d83.json",
+					"name" : "UnrealEditor-Win64-DebugGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealEditor-Win64-Shipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealEditor-Win64-Shipping-Debug-58c4535d91b621678cc9.json",
+					"name" : "UnrealEditor-Win64-Shipping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealGame-Debug-f1b90667a0e1b9dc2974.json",
+					"name" : "UnrealGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealGame-Win64-DebugGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealGame-Win64-DebugGame-Debug-f253b54f9427f58ef15b.json",
+					"name" : "UnrealGame-Win64-DebugGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealGame-Win64-Shipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealGame-Win64-Shipping-Debug-18edbe2e1688b7075479.json",
+					"name" : "UnrealGame-Win64-Shipping",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Users/Owner/Documents/Unreal Projects/ActionGame/cmake-build-debug",
+		"source" : "D:/Users/Owner/Documents/Unreal Projects/ActionGame"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
